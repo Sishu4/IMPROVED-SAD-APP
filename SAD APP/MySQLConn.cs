@@ -17,6 +17,7 @@ namespace SAD_APP
     internal class MySQLConn
     {
         // The connections string for the database connection
+        //Sishu added here
 
         static readonly string connstring = "Data Source=DAGMAWI\\SQLEXPRESS01;" +
                                             "Integrated Security=True;" +
